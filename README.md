@@ -1,3 +1,8 @@
-# likecutegirl
-喜欢可爱女孩子的来年的专属
-666
+#This is a comment.
+#Each line is a file pattern followed by one or more owners.
+
+#These owners will be the default owners for everything in
+#the repo. Unless a later match takes precedence,
+#@global-owner1 and @global-owner2 will be requested for 
+#review when someone opens a pul1 request.
+#@global-owner1 @globa1l- owner2
